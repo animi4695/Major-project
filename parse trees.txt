@@ -1,0 +1,35 @@
+review =====>>>> This phone has a great battery and the display is also good.
+
+[[1]]
+(TOP
+  (S
+    (S
+      (NP (DT This) (NN phone))
+      (VP
+        (VBZ has)
+        (NP
+          (NP (DT a) (JJ great) (NN battery))
+          (CC and)
+          (NP (DT the) (NN display)))))
+    (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ good)))
+    (. .)))
+
+
+
+
+
+review ====>>>> This phone has a good display and the battery is also great
+
+[[1]]
+(TOP
+  (S
+    (S
+      (NP (DT This) (NN phone))
+      (VP
+        (VBZ has)
+        (NP
+          (NP (DT a) (JJ good) (NN display))
+          (CC and)
+          (NP (DT the) (NN battery)))))
+    (VP (VBZ is) (ADJP (RB also) (JJ great)))
+    (. .)))

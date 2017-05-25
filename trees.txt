@@ -1,0 +1,13 @@
+[[1]]
+(TOP
+  (S
+    (S
+      (NP (DT This) (NN phone))
+      (VP
+        (VBZ has)
+        (NP
+          (NP (DT a) (JJ good) (NN display))
+          (CC and)
+          (NP (DT the) (NN battery)))))
+    (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ great)))))
+
